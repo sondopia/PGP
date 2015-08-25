@@ -1,2 +1,42 @@
-# PGP
-My PGP Info...
+If you care about your privacy and mine and want to send me an email encrypt it using my public PGP Key
+
+KeyID: '9DF6D499'
+Fingerprint: '17CD854A2267B1DECAAC600960ECE5569DF6D499'
+
+Get it here:
+PGP Global Directory - https://keyserver.pgp.com/vkd/SubmitSearch.event?&&SearchCriteria=Sonder%20Opia
+GitHub - https://github.com/sondopia/PGP
+
+Or copy the key below and save it as "sondopia.asc" 
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFXboUsBCADDYpb+3YvKpoAIa+e8bLMGjnia70XPEottSw+DwGxcHLqpzXVQ
+4ednLuVRTCjtdVg5ShtCNCr3WtKuSgiq3f3mXnQVxA/3KbtltZIdSbeqlVR6Eq0m
+/SonqXVJ+pzIcInt9zXf//icYA1BeJAvwYYBFhco4xfeo4qL5/KDz9Ifx/p6GLLh
+2lGG6XvV52cVh+BxN8DDQawvyLh/tRYf0Xkhg2+E8lOQIjwn9MviovxItWj+U302
+e046wysCV45HaBfMp1NCj/A+5y8nXRukGpdJesmDuKqWMPkZyQWMU8exzyANaUlg
+jVLnPnpRn+OEmZ7PL+lgMili9TETAlN2A2oHABEBAAG0NlNvbmRlciBPcGlhIChJ
+dCBpcyB3aGF0IGl0IGlzLi4uKSA8ZDdlMTI0M2RAb3BheXEuY29tPokBPgQTAQIA
+KAUCVduhSwIbAwUJAeEzgAYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQYOzl
+Vp321JkZIgf+JxniAbpJIl9BV1psNC5IanMrfNmY2OnAroVlmq6h/3h1tdFWGru6
+5NkstRY5X3kxN3ZQoqHC0xx7orgWoPw+ABqSvlLoB8846zDXg0lrTN4gMSYShvpG
+YcG+AklhgesPi4UMfoDuW0R6BWkIP9AaGXbG1MUPsqpm/0aWNLwjT8Pl4xNV5O4Y
+092mCJaas3bo5LQraPY67daaVRYy0As3XyHbyiZwOviPkuxH+1mRnOBqlfBeQyYH
+UP4R+g+aBSmbGCZXUkRSMvEgbotlELHPkK4V8VWnOpgtEsQBDWLIT1MAw3jPM4PH
+83gXqe4/ren3pUiq5PlIrhmR4fOQsyc+lbkBDQRV26FLAQgAwyqhGuVXJEgJpqP7
+ib9zCxZDq2QD5nah/WOsa3gOR03Z6VRm9JBrc63m3mjXtAUfFZYjO80ULexG4Dcz
+0bqA7wNI/bO+WUF4KwyI/iwE47rf136QMJiBOrRkdYmo/7PHOszyO7I7EPy76yOA
+oCBhASlZzXEPDaZ0KzSUsvckx8J9ABGO+7NmpnnTNygivusfqvjdyCgsyVZlS9h5
+8ej5jVJsi7kYQMh9JIJVMc69q54l8lxdkVpj4ebWgujIRhv5qH5uVokP7ubdEnjY
+JVs9xPMDOL05PkS6wOqGXs31mJZ6EoEiJwy2F/a77vf5G3eCZ4axBoyLJj1zE4dR
+ejdHXwARAQABiQElBBgBAgAPBQJV26FLAhsMBQkB4TOAAAoJEGDs5Vad9tSZRUEH
+/R9ZpJI7rRNovvXa1g4JcwEtvnZZbUigb6l5OxZwxKaUvV/sgGfwsJdkqaNrPZT2
+KzFRQkypA6bhfcUa+v8H4meizad0+F41MBc/Qy+kbRRiBKpRmqC5krdu/oYngdrP
+OP7kRioO3sTCPJzZ8C3NHk31faO+rjuIfZy9ZaF3lgpRAFnlGN+BXRGX2Cq1NkYx
+dYUzZZUQ7EMG1EHuZfVYO0i526mENWnjE0uDIqQ9WyY1SJfwfHAUiEGw360R1adg
+CO81u7PBT32x0XqIlTM6j6PmQRw9xsmBJblPVQh3muU+a272fPBG2K4vYtQOncZc
+Btz0/oTiQV7/p8BnywD5WjI=
+=mLrt
+-----END PGP PUBLIC KEY BLOCK-----
