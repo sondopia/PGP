@@ -6,7 +6,6 @@ KeyID: '9DF6D499'
 Fingerprint: '17CD854A2267B1DECAAC600960ECE5569DF6D499'
 
 Get it here:
-PGP Global Directory - https://keyserver.pgp.com/vkd/SubmitSearch.event?&&SearchCriteria=Sonder%20Opia
 GitHub - https://github.com/sondopia/PGP
 
 Or copy the key below and save it as "sondopia.asc" 
