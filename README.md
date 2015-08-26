@@ -1,11 +1,12 @@
-Email: d7e1243d@opayq.com
+If you care about your privacy and mine encrypt your emails using my public PGP Key
 
-If you care about your privacy and mine and want to send me an email encrypt it using my public PGP Key
+Email: d7e1243d@opayq.com
 
 KeyID: '9DF6D499'
 Fingerprint: '17CD854A2267B1DECAAC600960ECE5569DF6D499'
 
 Get it here:
+
 GitHub - https://github.com/sondopia/PGP
 
 Or copy the key below and save it as "sondopia.asc" 
